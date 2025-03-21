@@ -1,6 +1,6 @@
 # ChatGPT 中文版是什么？国内如何使用 ChatGPT？【2025年3月最新】
 
-> **更新时间： 2025/03/17**  
+> **更新时间： 2025/03/22**  
 
 ChatGPT 是 OpenAI 开发的一款深度学习对话模型，以自然语言处理为基础，提供强大的聊天、写作、翻译等服务。为方便国内用户，我们特别整理了 **ChatGPT 中文版** 的一站式使用指导，无需翻墙即可快速体验。  
 
@@ -53,8 +53,8 @@ ChatGPT 中文版是基于 OpenAI 的 GPT 模型，专为中文用户优化而�
 
 | **站点名称** | **网址** | **支持版本** | **免费额度** | **注册方式** | **特色功能** |
 |--------------|----------|--------------|---------------|------------|------------|
-| **聊一聊** | [chat.lify.vip](https://chat.lify.vip) | GPT-4 Turbo、插件集 | 有 | 简单注册 | AI PPT、语音对话功能丰富 |
-| **ChatGPT中文版** | [chatgpt-chinese.com](https://chatgpt-chinese.com) | GPT-4、GPT-3.5 | 有 | 国内手机号/邮箱注册 | 支持 MJ 绘图、中文优化全面 |
+| **聊一聊** | [chat.lify.vip](https://chat.lify.vip) | GPT-4 Turbo、GPT o1、GPT o3、DeepSeek R1满血版、Grok、Claude、插件集 | 有 | 简单注册 | AI PPT、语音对话功能丰富 |
+| **ChatGPT中文版** | [chat.lanjing.ai](https://chat.lanjing.ai) | GPT-4、GPT-3.5、DeepSeek R1 中文版 | 有 | 国内手机号/邮箱注册 | 支持 MJ 绘图、中文优化全面 |
 | **易写 AI** | [yixiaai](https://www.yixiaai.com) | GPT-4.0、Claude、DeepSeek | 有 | 注册免费使用 | 支持 AI 绘画、最新 GPT 模型 |
 
 如果您希望在桌面端更流畅使用 AI 服务，可下载相应客户端工具，例如 [智慧岛AI](https://chatknow.lify.vip/software/AI%E6%99%BA%E6%85%A7%E5%B2%9B_1.0.0_x64_zh-CN.msi)。与镜像站结合使用，可解决网页版本访问体验受到限制的问题。
@@ -88,7 +88,7 @@ ChatGPT 中文版是基于 OpenAI 的 GPT 模型，专为中文用户优化而�
    - 科学上网 VPN。
    - 有效海外手机号（美区、港区等）。
 3. **完成注册**：验证手机号并激活账号。
-4. **登录后选择版本**：根据需求选择 GPT-4 或 GPT-3.5。
+4. **登录后选择版本**：根据需求选择 GPT-4 、 GPT-3.5 或 Claude 3.7 Sonnet。
 
 官网虽然体验丰富，但操作更复杂，建议普通用户优先选择国内优化镜像。
 
