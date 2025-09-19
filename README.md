@@ -1,6 +1,6 @@
 # ChatGPT 中文指南 | ChatGPT Chinese Guide
 
-> 更新时间：2025/07/26  
+> 更新时间：2025/09/20  
 > 
 > ChatGPT 中文用户最常用的信息和最新教程，国内能用的 ChatGPT 镜像收集、详细的注册使用方法、常见问题解答等。
 
@@ -14,9 +14,9 @@
 
 | 名称                | 地址                                                                                                               | 支持功能                                                         |
 |---------------------|--------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
-| 易夏AI              | [https://xsimplechat.com](https://xsimplechat.com)                                                               | GPT-4o、GPT o1、DeepSeek满血版、Claude 4 Sonnet、Claude 3.7 Sonnet、Grok 4、Grok 3、AI绘画、联网查询|
-| ChatGPT-Chinese     | [https://chat.chatgpt-chinese.com/](https://chat.chatgpt-chinese.com/)                                             | GPT-4o、GPT-o3、GPT o1、DeepSeek满血版                            |
-| 蓝鲸AI              | [https://chat.lanjingai.org](https://chat.lanjingai.org)                                                           | GPT全系列模型、DeepSeek R1满血版                                  |
+| 易夏AI              | [https://xsimplechat.com](https://xsimplechat.com)                                                               | GPT-5、GPT o1、DeepSeek满血版、Claude 4 Sonnet、Claude 4 Sonnet、Grok 4、Grok 3、AI绘画、联网查询|
+| ChatGPT-Chinese     | [https://chat.chatgpt-chinese.com/](https://chat.chatgpt-chinese.com/)                                             | GPT-5、GPT-o3、GPT o1、DeepSeek满血版                            |
+| 蓝鲸AI              | [https://ai.lanjingai.org](https://ai.lanjingai.org)                                                           | GPT全系列模型、DeepSeek R1满血版                                  |
 | 蓝鲸 Guide          | [https://guide1.chat.lanjingai.org](https://guide1.chat.lanjingai.org)                                             | GPT全系列模型                                                    |
 
 （如有更多优质平台欢迎补充！）
